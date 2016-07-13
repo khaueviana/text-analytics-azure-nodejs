@@ -1,0 +1,22 @@
+{
+  "name": "text-analytics-azure-nodejs",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "server.js",
+  "dependencies": {
+    "azure-mobile-apps": "^2.1.7",
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "node-fetch": "^1.5.3",
+    "node-fetch ": "1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
