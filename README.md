@@ -1,6 +1,6 @@
 # Text Analytics - Azure - Node.Js
 
-Projeto em Node.Js que exemplifica o consumo das apis de detecção de idioma e sentimento na frase.
+Node.js project that exemplifies the use of language detection apis and feeling in the sentence.
 
 Documentation
 https://www.microsoft.com/cognitive-services/en-us/text-analytics/documentation
