@@ -1,4 +1,4 @@
-# Text Analytics - Azure - Node.Js
+# text-analytics-azure-nodejs
 
 Node.js project that exemplifies the use of language detection apis and feeling in the sentence.
 
